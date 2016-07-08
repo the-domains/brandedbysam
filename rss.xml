@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Branded By Sam]]></title>
         <description><![CDATA[Branded By Sam]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brandedbysam/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 01:28:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 00:39:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brandedbysam/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Best Curry!]]></title>
+            <description><![CDATA[<article><h1>Best Curry!</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/67796f75363c46cb24b9b716938a0101/croprotate.jpg?cropheight=2448&cropwidth=3264&degrees=-180&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fed6463e0-d1ed-42ea-9f56-b1a48e4f5f89.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed6463e0-d1ed-42ea-9f56-b1a48e4f5f89.jpg</link>
+            <guid isPermaLink="false">ca221b45-8a7e-4f24-a189-cbd887ff6b5c</guid>
+            <pubDate>Fri, 08 Jul 2016 00:39:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ff99124-5fc3-4d5d-95d3-e692ecabea83.jpg">]]></description>
-            <link>undefinedb1a0fc6a-37c3-4d1e-a2ff-61b2a7e21764/index.html</link>
+            <link>https://thegrid.ai/brandedbysam/b1a0fc6a-37c3-4d1e-a2ff-61b2a7e21764/index.html</link>
             <guid isPermaLink="false">b1a0fc6a-37c3-4d1e-a2ff-61b2a7e21764</guid>
             <pubDate>Sat, 30 Apr 2016 01:27:18 GMT</pubDate>
         </item>
